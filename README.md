@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bigpro1
 - 👀 I’m interested in discord bots
 - 🌱 I’m currently learning python/c++/HTML-already learned JS
-- 📫 Working on a very good project (Discord Bot) BPX Bot and it will include (moderation,tickets,music,fun,embed messages,reaction roles and more !)
+- 📫 Working on a very good project (Discord Bot) BX Bot and it will include (moderation,tickets,music,fun,embed messages,reaction roles and more !)
 - 📫 You can contact me on my discord server ( https://discord.gg/fCgRZ2c8qn )
 
 <!---
